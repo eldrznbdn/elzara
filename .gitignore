@@ -1,0 +1,8 @@
+# ignore ALL .docx files
+*.docx
+# ignore ALL .pptx files
+*.pptx
+# ignore ALL .xlsx files
+*.xlsx
+# ignore ALL .DS_Store files
+.DS_Store
